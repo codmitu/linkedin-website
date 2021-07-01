@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/linkedin-website/static/css/main.3ef3bfee.chunk.css",
+    "main.js": "/linkedin-website/static/js/main.04d8b84c.chunk.js",
+    "main.js.map": "/linkedin-website/static/js/main.04d8b84c.chunk.js.map",
+    "runtime-main.js": "/linkedin-website/static/js/runtime-main.b1f0fc10.js",
+    "runtime-main.js.map": "/linkedin-website/static/js/runtime-main.b1f0fc10.js.map",
+    "static/js/2.d25659d5.chunk.js": "/linkedin-website/static/js/2.d25659d5.chunk.js",
+    "static/js/2.d25659d5.chunk.js.map": "/linkedin-website/static/js/2.d25659d5.chunk.js.map",
+    "index.html": "/linkedin-website/index.html",
+    "static/css/main.3ef3bfee.chunk.css.map": "/linkedin-website/static/css/main.3ef3bfee.chunk.css.map",
+    "static/js/2.d25659d5.chunk.js.LICENSE.txt": "/linkedin-website/static/js/2.d25659d5.chunk.js.LICENSE.txt",
+    "static/media/Linkedin-Logo.68ac41e1.png": "/linkedin-website/static/media/Linkedin-Logo.68ac41e1.png",
+    "static/media/avatar.da115ad3.jpg": "/linkedin-website/static/media/avatar.da115ad3.jpg",
+    "static/media/img2.dee29fd3.jpg": "/linkedin-website/static/media/img2.dee29fd3.jpg",
+    "static/media/linkedin.df9390a9.png": "/linkedin-website/static/media/linkedin.df9390a9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b1f0fc10.js",
+    "static/js/2.d25659d5.chunk.js",
+    "static/css/main.3ef3bfee.chunk.css",
+    "static/js/main.04d8b84c.chunk.js"
+  ]
+}
